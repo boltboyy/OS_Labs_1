@@ -1,0 +1,1 @@
+﻿add_executable(Reporter Reporter.cpp)

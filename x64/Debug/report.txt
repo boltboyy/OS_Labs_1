@@ -1,0 +1,4 @@
+Report for file data.bin
+Num     Name        Hours     Salary
+101     vlad        14.00     175.00
+103     dasha       2.00      25.00
