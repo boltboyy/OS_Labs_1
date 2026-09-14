@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+build/
+x64/
+Debug/
+Release/
+.vs/
+*.vcxproj.user
+data.bin
+report.txt
