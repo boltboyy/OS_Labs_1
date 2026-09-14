@@ -1,5 +1,0 @@
-D:/OS_Labs/Lab1/build/CMakeFiles/ALL_BUILD.dir
-D:/OS_Labs/Lab1/build/CMakeFiles/ZERO_CHECK.dir
-D:/OS_Labs/Lab1/build/Creator/CMakeFiles/Creator.dir
-D:/OS_Labs/Lab1/build/Reporter/CMakeFiles/Reporter.dir
-D:/OS_Labs/Lab1/build/Main/CMakeFiles/Main.dir
